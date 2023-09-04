@@ -1,0 +1,5 @@
+Name,Age,Country,Comment
+Alice,25,USA,This is a comment with ASCII characters.
+Bob,30,Canada,Another comment with non-ASCII characters: éüñ
+Charlie,,UK,
+David,28,Australia,Invalid characters here: ♦♣♥♠
