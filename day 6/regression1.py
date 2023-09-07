@@ -13,8 +13,8 @@ df1 = pd.DataFrame(data)
 # df1.describe()
 
 #linear plotting
-# plt.scatter(df1['age'],df1['charges'],color='red')
-# plt.show()
+plt.scatter(df1['age'],df1['charges'],color='red')
+plt.show()
 
 regr = linear_model.LinearRegression()
 x = np.asanyarray(df1['age'],df1['bmi'])
