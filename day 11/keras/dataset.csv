@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,MonthlyCharges,TotalCharges,Churn
+1,Female,0,Yes,No,10,49.95,499.5,No
+2,Male,1,No,No,5,79.99,399.95,Yes
+3,Male,0,Yes,Yes,30,99.0,2970.0,No
+4,Female,0,Yes,No,15,89.95,1349.25,No
+5,Female,1,No,Yes,7,109.0,763.0,Yes
+6,Male,0,No,No,3,59.99,179.97,No
+7,Female,0,No,No,8,69.0,552.0,No
+8,Male,0,Yes,No,20,84.95,1699.0,No
+9,Female,1,Yes,No,50,109.99,5499.5,Yes
+10,Male,0,No,Yes,12,59.95,719.4,Yes
